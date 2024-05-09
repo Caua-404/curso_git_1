@@ -1,1 +1,2 @@
 Sucesso!
+Agora estamos dando seguimento ao curso e testanto nossa parte do "Git status".
